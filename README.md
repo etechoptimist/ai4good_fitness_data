@@ -6,8 +6,8 @@ Physical Activity Recognition (PAR) involves the automatic detection of physical
 
 Potential PAF applications include:
 
-Nutrition management: PAF can be used to monitor daily physical activity and calorie intake, enabling the creation of personalized diets to help maintain a healthy weight and reduce risks of chronic diseases.
-Early dementia diagnosis: PAF can detect early signs of dementia by monitoring changes in mobility, aiding in the early diagnosis of conditions like Alzheimer’s and Parkinson’s.
-Depression detection: By tracking decreases in physical activity, PAF can assist in the early identification of depression in both young and elderly individuals.
-Adherence to PA prescriptions: PAF can predict adherence to prescribed physical activity programs, helping to prevent relapses.
-Biological age estimation: PAF can be utilized to estimate biological age based on physical activity, offering an alternative to traditional biomarkers.
+- Nutrition management: PAF can be used to monitor daily physical activity and calorie intake, enabling the creation of personalized diets to help maintain a healthy weight and reduce risks of chronic diseases.
+
+- Early dementia diagnosis: PAF can detect early signs of dementia by monitoring changes in mobility, aiding in the early diagnosis of conditions like Alzheimer’s and Parkinson’s.
+
+- Depression detection: By tracking decreases in physical activity, PAF can assist in the early identification of depression in both young and elderly individuals.
