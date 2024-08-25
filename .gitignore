@@ -143,3 +143,9 @@ pylint.log
 
 
 *.csv
+*.shp
+*.shx
+*.dbf   
+*.prj
+*.cpg
+*.geojson
